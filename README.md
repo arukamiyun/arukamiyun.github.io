@@ -12,6 +12,5 @@ You can find me on [Bluesky](https://bsky.app/profile/arukamiyun.github.io) and 
 
 ### Friends
 [![](assets/hararunan.png)](https://shiroko.me/)
-[hararunan/nakoyasha](https://shiroko.me/) [Dummy hyperlink]
 
 <a href="https://u24.gov.ua/" style="color: yellow;">Слава</a> [Україні!](https://www.consilium.europa.eu/en/policies/enlargement/ukraine) / <a href="https://crisisrelief.un.org/opt-crisis" style="color: red;">!حرة</a> <a href="https://arab.org" style="color: green;">فلسطين</a>
