@@ -10,4 +10,7 @@ My interests are geopolitics, astrology, *[(not programming)](https://github.com
 ### Where can I add you?
 You can find me on [Bluesky](https://bsky.app/profile/arukamiyun.github.io) and [Discord](https://discord.com/users/1230555039475568640)!
 
+### Friends
+[assets/hararunan.png](https://shiroko.me/)
+
 <a href="https://u24.gov.ua/" style="color: yellow;">Слава</a> [Україні!](https://www.consilium.europa.eu/en/policies/enlargement/ukraine) / <a href="https://crisisrelief.un.org/opt-crisis" style="color: red;">!حرة</a> <a href="https://arab.org" style="color: green;">فلسطين</a>
