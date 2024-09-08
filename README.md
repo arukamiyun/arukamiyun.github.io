@@ -12,5 +12,8 @@ You can find me on [Bluesky](https://bsky.app/profile/arukamiyun.github.io) and 
 
 ### Friends
 [![](assets/hararunan.png)](https://shiroko.me/)
+<a href="https://vendicated.dev">
+    <img src="https://github.com/Vendicated/Vendicated/assets/45497981/5794a4e1-292f-46cc-af3a-b33a27a2f15e" title="Vendicated (88x31 made by arHSM :3)">
+</a>
 
 <a href="https://u24.gov.ua/" style="color: yellow;">Слава</a> [Україні!](https://www.consilium.europa.eu/en/policies/enlargement/ukraine) / <a href="https://crisisrelief.un.org/opt-crisis" style="color: red;">!حرة</a> <a href="https://arab.org" style="color: green;">فلسطين</a>
