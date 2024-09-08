@@ -2,7 +2,7 @@
 Hello! My name is Evelyn, but I also go as Akìra, or miyun, if you prefer usernames.
 
 ### Interests
-My interests are geopolitics, astrology, *[(not programming)](https://github.com/theletterf/english-lang)* languages, and gaming.
+My interests are geopolitics, astrology, *<a href="https://github.com/theletterf/english-lang" style="color: white;">(not programming)</a>* languages, and gaming.
 
 ***What am I currently playing?***
 *I'm currently playing, in order of priorities, [Persona 3 Reload](https://persona.atlus.com/p3r/), <a href="https://persona.atlus.com/p5r/" style="color: red;">Persona 5 Royal</a>, <a href="https://persona.atlus.com/p3p/" style="color: #EF86B7;">Persona 3 Portable</a> and <a href="https://persona.atlus.com/p4g/" style="color: yellow;">Persona 4 Golden</a>!*
