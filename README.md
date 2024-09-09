@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
+</head>
+
 ### Introduction
 Hello! My name is Evelyn, but I also go as Akìra, or miyun, if you prefer usernames.
 
